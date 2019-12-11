@@ -2,22 +2,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-PolinomioDTO<complete>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "mainClass": "hello.PolinomioDTO",
-            "projectName": "complete",
-            "args": ""
-        },
-        {
-            "type": "java",
-            "name": "Spring Boot-Application<complete>",
+            "name": "Spring Boot-Application<calculus-rest-service>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "mainClass": "hello.Application",
-            "projectName": "complete",
+            "projectName": "calculus-rest-service",
             "args": ""
         }
     ]
